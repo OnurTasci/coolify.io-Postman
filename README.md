@@ -2,6 +2,8 @@
 
 This repository contains a Postman Collection file for API testing and development.
 
+https://www.postman.com/onurtasci52/new-personal-workspace/collection/uyzp9m0/coolify-io
+
 ## Collection File
 
 - [`postman.json`](./postman.json)
